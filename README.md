@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmadugu12. 
 A Web Developer with 4+ years experience looking to collaborate on some interesting Laravel Projects. 
-I'm new to working with Open Source projects, so I'm really exciteda about this. 
+I'm new to working with Open Source projects, so I'm really excited about this. 
 Just like everyone, I'm here to learn, collaborate and exchange ideas. 
 
 <!---
